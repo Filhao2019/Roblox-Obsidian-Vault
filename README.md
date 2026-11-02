@@ -59,3 +59,9 @@ Inspired by the tooling ideas in [LihFolk Vault V2](https://github.com/lihfolk-c
 ## Research expansion — v1.4.0
 
 Seven former stubs now contain sourced guidance; Pressure is an additional game reference. See `10 Reference Workflows/Research Coverage and Next Additions.md` for exact coverage and remaining gaps. New illustrations reuse the existing offline documentation library; horror profiles also link online official thumbnails that may change or expire. No game media was downloaded or relicensed.
+
+## v2 — LihFolk V2 import and visual boards
+
+`11 LihFolk V2/` holds an unchanged, credited copy of the notes from [LihFolk Vault V2](https://github.com/lihfolk-cy/v2-vault) (CC BY 4.0, see that folder's `LICENSE.md` and `ABOUT THIS IMPORT.md`). Start with its `00 Start Here.md`, `SYMPTOMS.md` or `ROUTER.md`; avoid loading its 340 KB `INDEX.md` into an AI session.
+
+`09 Visual References/` adds boards for game UI, high-fidelity Roblox models, game thumbnails, VFX packs and animation videos. Their images load from the original hosts and need internet access.

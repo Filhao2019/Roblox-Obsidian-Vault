@@ -78,3 +78,5 @@ Audio (`06 SFX and Audio/`): Audio MOC · SFX of Top Games · What Makes a Sound
 VFX (`07 VFX/`): VFX MOC · VFX of Top Games · VFX Fundamentals · Combat and Ability VFX · Reward and Rarity VFX · Environmental and Weather VFX · VFX Packs and Marketplaces · VFX Textures and Flipbooks · VFX Implementation in Luau · VFX References
 
 Coding (`08 Coding/`): Coding MOC · Project Architecture and Frameworks · Data Saving and Player Profiles · Networking and Remotes · Security and Anti-Exploit · Code Performance and Optimization · Combat Systems · Pet Egg and Gacha Systems · Steal and Base Systems · Fishing Systems · Tower Defense Systems · Round-Based and Horror Systems · Trading Systems · Open Source Libraries · Coding References
+
+Vendored (`11 LihFolk V2/`): third-party CC BY 4.0 notes kept unchanged. Do not edit them or apply this vault's writing rules to them; never read its `INDEX.md` in full.

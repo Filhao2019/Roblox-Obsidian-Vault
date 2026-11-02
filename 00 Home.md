@@ -67,3 +67,7 @@ Start with [[Feature Triage and Build Contract]] and [[Feature Build Contract]].
 ## Local search and evidence tools
 
 Open [[Vault Tools and Evidence]] for local search, section reading and validation commands. [[Troubleshooting Index]] maps symptoms to reference notes; [[Evidence and Quality Review]] and [[Evidence Record]] help track what was actually checked.
+
+## LihFolk V2 library
+
+The `11 LihFolk V2` folder adds about 1,300 third-party notes (CC BY 4.0). Start at [00 Start Here](11%20LihFolk%20V2/00%20Start%20Here.md) or look up a bug in [SYMPTOMS](11%20LihFolk%20V2/SYMPTOMS.md).

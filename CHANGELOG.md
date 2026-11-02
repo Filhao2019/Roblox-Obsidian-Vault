@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.0.0 — v2: LihFolk V2 Import and Visual Boards — 2026-11-02
+
+- Imported 1,360 notes and images from LihFolk Vault V2 (CC BY 4.0, pinned commit) into `11 LihFolk V2/`, unchanged and credited in `ABOUT THIS IMPORT.md`. This adds sections the vault lacked: anti-exploit, physics and vehicles, level design, accessibility, player QoL, thumbnails and CTR, engine reference cards, an API atlas, a bug-symptom table (`SYMPTOMS.md`) and a topic router (`ROUTER.md`).
+- Security review: no exfiltration, credential access or prompt-injection instructions found. Excluded the upstream Claude plugin hook (runs a script on every edit), multi-agent council commands (high token use), Obsidian plugin, tools, rig files and benchmarks.
+- Added 16 visual boards: 407 UI, 599 high-fidelity model, 200 thumbnail and 100 VFX references plus a 100-video animation library. Images are **remote embeds** from their original hosts rather than bundled files, a change from earlier releases; they need internet access and Roblox CDN links can expire.
+- `_tools/vault.py check` searches the imported folder but does not hold it to this vault's metadata and link rules.
+
 ## v1.4.0 — Research and Practical Workflows — 2026-11-02
 
 - Expanded seven stubs: persistence, networking, security, coding references, flipbooks, environmental VFX and DOORS. Added a source-scoped Pressure reference and a research coverage map.

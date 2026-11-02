@@ -18,6 +18,11 @@ Start here to study pictures and motion alongside the vault's written guides. Th
 | Animation | [[Animation Poses and Timing Visual Study]] | Reference poses, foot contact, interpolation and a complete walk cycle |
 | VFX | [[Particles and Beams Visual Study]] | Particle texture, color, transparency and beam construction |
 | Audio | [[Spatial Audio Visual Study]] | Volumetric sources, falloff curves and an in-world demonstration |
+| Game UI (hotlinked) | [[Game UI Screenshot Board]] | 407 HUD, menu and UI images from Steam games, Roblox games and UI showcases |
+| High-fidelity models (hotlinked) | [[Roblox High Fidelity Model Board]] | 599 thumbnails from 107 realistic Roblox games, including Fish It and Fisch |
+| Thumbnails and icons (hotlinked) | [[Roblox Game Thumbnail Board]] | 200 icons and thumbnails of popular Roblox games |
+| VFX packs (hotlinked) | [[VFX Pack Board]] | 100 VFX pack and showcase images |
+| Animation videos (YouTube) | [[Animation Video Library]] | 100 tutorials: walk, run, panic run, jump, crouch, crawl, dash, idle, climb, Moon/Eclipse |
 
 ## A useful reference session
 

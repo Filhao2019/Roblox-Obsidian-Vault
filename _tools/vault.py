@@ -10,6 +10,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 EXCLUDED = {'.git', '.obsidian', '.cache', '__pycache__', '_tools'}
+VENDORED = '11 LihFolk V2'  # third-party CC BY import: searchable, not held to this vault's note rules
 ADMIN = {'README.md', 'CHANGELOG.md', 'AGENTS.md', 'CLAUDE.md', 'LICENSE.md'}
 
 
@@ -111,7 +112,8 @@ def check(root):
     docs = notes(root)
     targets = {}
     for path in root.rglob('*'):
-        if not path.is_file() or any(p in EXCLUDED for p in path.relative_to(root).parts):
+        parts = path.relative_to(root).parts
+        if not path.is_file() or any(p in EXCLUDED for p in parts) or parts[0] == VENDORED:
             continue
         rel = path.relative_to(root).as_posix()
         for key in {rel, path.name, rel[:-3] if path.suffix == '.md' else rel,
@@ -119,6 +121,8 @@ def check(root):
             targets.setdefault(key, set()).add(rel)
     for doc in docs:
         path = doc['path']
+        if path.startswith(VENDORED + '/'):
+            continue
         if Path(path).name not in ADMIN:
             meta = doc['metadata']
             for field in ('title', 'date', 'tags', 'status'):
