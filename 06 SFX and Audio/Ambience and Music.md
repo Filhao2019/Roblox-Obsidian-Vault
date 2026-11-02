@@ -99,4 +99,10 @@ See [[Sound Sources and Libraries]] for free music sources and [[Making SFX]] fo
 - [GDC: Dying Light 2 open-world audio](https://www.gdcvault.com/play/1029272/Open-World-Audio-in-Dying) — talk page · open-world
 - [GDC: Back 4 Blood music](https://www.gdcvault.com/play/1029247/Music-Design-Is-Composition-Interactive) — talk page · interactive music
 
+
+## Visual study
+
+- [[Spatial Audio Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[Audio MOC]] · [[00 Home]]

@@ -60,4 +60,10 @@ Horror titles ([[Doors]], [[99 Nights in the Forest]], [[Violence District]]) hi
 - [ScreenInsets enum](https://create.roblox.com/docs/en-us/reference/engine/enums/ScreenInsets.md) — official docs · safe areas
 - [Steal a Brainrot rarities and prices](https://allthings.how/steal-a-brainrot-brainrots-rarities-and-prices-full-list/) — guide · cash per second examples
 
+
+## Visual study
+
+- [[UI Layout and Motion Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[UI MOC]] · [[00 Home]]

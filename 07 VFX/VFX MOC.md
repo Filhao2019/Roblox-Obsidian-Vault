@@ -21,4 +21,10 @@ Visual effects: what the top games do and how to build it. Researched: [[VFX of 
 | [[VFX Textures and Flipbooks]] | stub |
 | [[VFX of Top Games]] | researched |
 
+
+## Visual study
+
+- [[Particles and Beams Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[00 Home]]

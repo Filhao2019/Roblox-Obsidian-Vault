@@ -62,4 +62,10 @@ BloomEffect (glow), BlurEffect, ColorCorrectionEffect (brightness/contrast/satur
 - [Rivals guide hub](https://games.gg/rivals/guides/) — guide site · map readability
 - [Best Roblox horror games](https://hone.gg/blog/roblox-horror-games/) — list · horror references
 
+
+## Visual study
+
+- [[Environment and Materials Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[3D Assets MOC]] · [[00 Home]]

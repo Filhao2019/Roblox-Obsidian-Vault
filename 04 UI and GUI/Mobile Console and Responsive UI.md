@@ -52,4 +52,10 @@ Phone portrait/landscape (small), tablet, 1080p desktop, ultra-wide, console wit
 - [AutoScale Plus for GUIs](https://devforum.roblox.com/t/plugin-autoscale-plus-for-guis/601773) — plugin thread · offset to scale
 - [Offset to Scale plugin](https://devforum.roblox.com/t/plugin-offset-to-scale/2563623) — plugin thread · conversion
 
+
+## Visual study
+
+- [[UI Layout and Motion Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[UI MOC]] · [[00 Home]]

@@ -46,4 +46,10 @@ Map of content for sound effects, music and audio code. Start with the chart-bas
 - [Lior Tega: FPS gun sound design](https://www.liortega.com/post/first-person-shooter-gun-sound-design) — article · layered design
 - [Wikipedia: dynamic music](https://en.wikipedia.org/wiki/Dynamic_music) — encyclopedia · adaptive music
 
+
+## Visual study
+
+- [[Spatial Audio Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[00 Home]] · [[Games MOC]]

@@ -216,4 +216,10 @@ Categorized link library for the UI folder. Every URL here was seen in a search 
 ## References
 All entries above are the references. See also the per-topic notes: [[UI Breakdown of Top Games]], [[UI Tools Plugins and Kits]], [[UI Implementation in Luau]].
 
+
+## Visual study
+
+- [[UI Layout and Motion Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[UI MOC]] · [[00 Home]]

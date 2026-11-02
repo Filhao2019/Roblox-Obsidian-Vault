@@ -694,4 +694,10 @@ Caveats (all untested): the `AudioPlayer.Asset` property takes a content URL whi
 - [Roblox docs index (llms.txt)](https://create.roblox.com/docs/llms.txt) — docs · full audio class list
 - [Wikipedia: dynamic range compression](https://en.wikipedia.org/wiki/Dynamic_range_compression) — encyclopedia · sidechain concept
 
+
+## Visual study
+
+- [[Spatial Audio Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[Audio MOC]] · [[00 Home]]

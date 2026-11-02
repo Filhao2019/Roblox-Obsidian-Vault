@@ -124,4 +124,10 @@ Combine a hard silhouette (sharp slash arc) with soft support (smoke, dust) so e
 - [Pixel-art combat FX: hitstop, smear frames, impact timing (GamineAI)](https://gamineai.com/blog/pixel-art-combat-fx-hitstop-smear-frames-impact-timing-2026) — article · impact timing
 - [20 free combat feel and juice resources (GamineAI)](https://gamineai.com/resources/20-free-combat-feel-and-juice-resources-hitstop-screenshake-vfx-timing-2026-edition) — resource list · hit-stop and shake resources
 
+
+## Visual study
+
+- [[Particles and Beams Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[VFX MOC]] · [[00 Home]]

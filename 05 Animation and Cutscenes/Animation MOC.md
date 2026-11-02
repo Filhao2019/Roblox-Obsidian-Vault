@@ -43,4 +43,10 @@ Map of content for animation, camera and cutscene knowledge. Start with principl
 - [Moon Animator 2 Basics - Official Tutorial](https://www.youtube.com/watch?v=q8tGNMo_jHg) — video · plugin start
 - [Cutscene tutorial: Camera Manipulation](https://www.youtube.com/watch?v=FhCNvyuZ-mE) — video · camera scripting
 
+
+## Visual study
+
+- [[Animation Poses and Timing Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[00 Home]] · [[Games MOC]]

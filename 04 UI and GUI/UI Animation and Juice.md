@@ -56,4 +56,10 @@ Limit looping tweens to visible UI; stop them when the frame is hidden. Pool toa
 - [CameraView Frame](https://devforum.roblox.com/t/cameraview-frame/4614500) — DevForum proposal · successor ideas
 - [UI appearance modifiers](https://create.roblox.com/docs/en-us/ui/appearance-modifiers) — official docs · UIGradient Offset/Rotation
 
+
+## Visual study
+
+- [[UI Layout and Motion Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[UI MOC]] · [[00 Home]]

@@ -81,4 +81,10 @@ Cutscenes in top Roblox games are short (2-8 s), skippable beats that sell a rev
 - [Code a Cutscene with different Camera Angles](https://www.youtube.com/watch?v=-f5zy0U9vD8) — video · angles
 - [Moon Animator Basics](https://www.youtube.com/watch?v=Uuz_aETFQS8) — video · camera track
 
+
+## Visual study
+
+- [[Animation Poses and Timing Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[Animation MOC]] · [[00 Home]]

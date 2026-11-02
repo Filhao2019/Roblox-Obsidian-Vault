@@ -66,4 +66,10 @@ Build rooms as self-contained models with fixed door anchors, tag props with spa
 - [Medieval village pack](https://opengameart.org/content/lowpoly-medieval-village-pack) — OpenGameArt · village kit
 - [Adam W environment breakdown](https://adamw3d.artstation.com/projects/gR0OGP) — ArtStation · environment art example
 
+
+## Visual study
+
+- [[Environment and Materials Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[3D Assets MOC]] · [[00 Home]]

@@ -82,4 +82,10 @@ Smooth animations have overlap, arcs and non-uniform timing; stiff ones are all 
 - [12 Principles of Animation: Squash and Stretch](https://www.youtube.com/watch?v=jhoHv71M66Y) — video · principle
 - [Squash and Stretch for Beginners](https://www.youtube.com/watch?v=67yzmKdDF5w) — video · examples
 
+
+## Visual study
+
+- [[Animation Poses and Timing Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[Animation MOC]] · [[00 Home]]

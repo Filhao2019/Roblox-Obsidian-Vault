@@ -95,4 +95,10 @@ Foley (recreating everyday sounds with props) gives organic bodies for layers: r
 - [GDC: Hunting with Hits](https://www.gdcvault.com/play/1028797/Hunting-with-Hits-Tempo-Slaying) — talk page · hit-driven audio
 - [GDC: Sounds as Intended](https://www.gdcvault.com/play/1028854/Audio-Summit-Sounds-as-Intended) — talk page · QA
 
+
+## Visual study
+
+- [[Spatial Audio Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[Audio MOC]] · [[00 Home]]

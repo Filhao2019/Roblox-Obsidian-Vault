@@ -252,4 +252,10 @@ The master link library for the animation folder: Creator Docs, DevForum threads
 - [Skill Builder V2 in TSB (allthings.how)](https://allthings.how/skill-builder-v2-in-the-strongest-battlegrounds-how-it-works/) — article · custom moves
 - [TSB The Strongest Hero guide (Sportskeeda)](https://sportskeeda.com/roblox-news/the-strongest-battlegrounds-the-strongest-hero-guide) — article · cutscene grab ult
 
+
+## Visual study
+
+- [[Animation Poses and Timing Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[Animation MOC]] · [[00 Home]]

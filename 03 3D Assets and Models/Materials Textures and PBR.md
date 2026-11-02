@@ -66,4 +66,10 @@ CC0 PBR sets from ambientCG and Poly Haven; Roblox's own material reference list
 - [Creation.dev texture packs](https://www.creation.dev/tools/texture-packs) — third-party list · Roblox texture packs (verify licenses)
 - [Stylized Grass and Flowers Asset Pack](https://builtbybit.com/resources/stylized-grass-and-flowers-asset-pack.106964/) — marketplace · stylized foliage textures
 
+
+## Visual study
+
+- [[Environment and Materials Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[3D Assets MOC]] · [[00 Home]]

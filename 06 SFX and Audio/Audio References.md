@@ -154,4 +154,10 @@ Categorized link library for the audio folder. Every link was opened during rese
 - [Wikipedia: Creative Commons licences](https://en.wikipedia.org/wiki/Creative_Commons_license) — encyclopedia · BY/NC/SA/ND/CC0
 - [Wikipedia: Monstercat](https://en.wikipedia.org/wiki/Monstercat) — encyclopedia · label
 
+
+## Visual study
+
+- [[Spatial Audio Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[Audio MOC]] · [[00 Home]]

@@ -66,4 +66,10 @@ Foot slide happens when animation stride does not equal movement distance. Appro
 - [Walk Cycle Tutorial: Eclipse Animator (2026)](https://www.youtube.com/watch?v=jgnj9Ul52jo) — video · cycle
 - [Dress To Impress walks (Deltias Gaming)](https://deltiasgaming.com/?p=214162) — article · purchasable walks
 
+
+## Visual study
+
+- [[Animation Poses and Timing Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[Animation MOC]] · [[00 Home]]

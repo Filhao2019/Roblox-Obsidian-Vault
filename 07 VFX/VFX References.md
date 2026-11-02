@@ -16,4 +16,10 @@ status: stub
 ## References
 - (none yet)
 
+
+## Visual study
+
+- [[Particles and Beams Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[VFX MOC]] · [[00 Home]]

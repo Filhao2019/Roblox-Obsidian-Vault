@@ -44,4 +44,10 @@ The research pass could not open screenshots, so visual specifics in the breakdo
 - [UI Design Guide](https://devforum.roblox.com/t/ui-design-guide/2975811) — DevForum tutorial · Figma to Studio
 - [UIGridLayout reference](https://create.roblox.com/docs/en-us/reference/engine/classes/UIGridLayout.md) — official docs · grid layouts for shops and inventories
 
+
+## Visual study
+
+- [[UI Layout and Motion Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[00 Home]]

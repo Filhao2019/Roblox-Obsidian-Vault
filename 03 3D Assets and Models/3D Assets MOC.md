@@ -35,4 +35,10 @@ Map of content for the 3D Assets and Models folder: how top Roblox games look, w
 - [Design for performance](https://create.roblox.com/docs/performance-optimization/design) — official · budgets
 - [Blender workflow](https://create.roblox.com/docs/art/blender) — official · export settings
 
+
+## Visual study
+
+- [[Environment and Materials Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[Games MOC]] · [[00 Home]]

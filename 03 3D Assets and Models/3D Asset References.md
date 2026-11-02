@@ -214,4 +214,10 @@ Same list as above, grouped by purpose; this note is itself the reference librar
 - [Quaternius home](https://quaternius.com) — CC0 pack catalog
 - [Poly Haven license](https://polyhaven.com/license) — CC0 terms
 
+
+## Visual study
+
+- [[Environment and Materials Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+
 Links: [[3D Assets MOC]] · [[00 Home]]

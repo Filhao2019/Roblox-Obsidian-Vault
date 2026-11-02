@@ -24,6 +24,10 @@ A reference library for making Roblox games with AI. Every area is grounded in w
 | ✨ VFX | [[VFX MOC]] | Top games' effects, particles/beams/trails, VFX packs, textures, VFX code |
 | 💻 Coding | [[Coding MOC]] | Architecture, data, networking, security, genre systems (combat, eggs, stealing, fishing, TD, horror, trading) |
 
+## Visual reference library
+
+Start at [[Visual References MOC]] for five illustrated study boards with offline images and playable demonstration clips. Read [[Media Attribution and Reuse]] before redistributing the media.
+
 ## Quick paths
 
 - **Starting a new game?** [[What Every Roblox Game Needs]] → [[Core Gameplay Loops]] → [[Genre Playbooks]] → the matching game profiles.

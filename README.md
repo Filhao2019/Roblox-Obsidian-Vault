@@ -31,3 +31,9 @@ Game stats come from Roblox's public APIs (`explore-api` chart sorts and `games.
 - Luau code marked `status: untested` hasn't been run in Studio yet.
 
 MIT License.
+
+## Visual reference library — v1.1.0
+
+Open `09 Visual References/Visual References MOC.md` for five study boards containing 21 local images and 9 local MP4 clips (50.4 MB). Examples cover environment art, PBR materials, UI, animation, particles, beams and spatial audio. Each includes a source link and study prompt. Obsidian plays local videos inline; other Markdown viewers may require opening the file.
+
+Roblox documentation media is **CC BY 4.0**, separately from the vault text's MIT license. See `09 Visual References/Media Attribution and Reuse.md`, `_Media/ROBLOX-CC-BY-4.0.txt` and `_Data/visual-media-2026-11-02.json` for attribution and checksums. Use `_Templates/Visual Reference Template.md` to add your own references.
