@@ -12,13 +12,13 @@ Visual effects: what the top games do and how to build it. Researched: [[VFX of 
 | Note | Status |
 |---|---|
 | [[Combat and Ability VFX]] | stub |
-| [[Environmental and Weather VFX]] | stub |
+| [[Environmental and Weather VFX]] | researched |
 | [[Reward and Rarity VFX]] | stub |
 | [[VFX Fundamentals]] | researched |
 | [[VFX Implementation in Luau]] | untested |
 | [[VFX Packs and Marketplaces]] | researched |
 | [[VFX References]] | stub |
-| [[VFX Textures and Flipbooks]] | stub |
+| [[VFX Textures and Flipbooks]] | researched |
 | [[VFX of Top Games]] | researched |
 
 

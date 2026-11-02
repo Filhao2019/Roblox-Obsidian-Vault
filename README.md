@@ -55,3 +55,7 @@ Run `python _tools/vault.py search "mobile UI"` to find notes with their status,
 New troubleshooting, evidence-review and evidence-record notes connect symptoms and project acceptance criteria to the library. GitHub Actions runs the checker and regression tests. These are structural checks, not verification of Roblox APIs or runtime behavior. Existing code stubs remain stubs.
 
 Inspired by the tooling ideas in [LihFolk Vault V2](https://github.com/lihfolk-cy/v2-vault/tree/43ba05dbad93e9ff4e4b06633d10260ca59f0602); the implementation is original to this repository. No upstream hooks, plugin, gameplay modules or asset pack is bundled.
+
+## Research expansion — unreleased
+
+Seven former stubs now contain sourced guidance; Pressure is an additional game reference. See `10 Reference Workflows/Research Coverage and Next Additions.md` for exact coverage and remaining gaps. New illustrations reuse the existing offline documentation library; horror profiles also link online official thumbnails that may change or expire. No game media was downloaded or relicensed.

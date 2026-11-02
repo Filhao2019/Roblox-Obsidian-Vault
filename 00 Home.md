@@ -7,7 +7,7 @@ status: researched
 
 # Roblox Obsidian Vault
 
-A reference library for making Roblox games with AI. Every area is grounded in what the **top 20 games on Roblox's "Top Playing Now" chart** (plus 7 long-running chart staples) actually do, with links back to wikis, the Roblox DevForum, Creator Docs, YouTube and press coverage.
+A reference library for making Roblox games with AI. The initial selection covers the **top 20 games on Roblox's "Top Playing Now" chart** plus 7 chart staples; supplementary profiles broaden the references. Notes distinguish sourced research, proposed study exercises and unfilled stubs, with links to the owning sources.
 
 > AI agents: read [[AGENTS]] first. It holds the writing rules and the exact note names.
 
@@ -15,7 +15,7 @@ A reference library for making Roblox games with AI. Every area is grounded in w
 
 | Area | Map | What's inside |
 |---|---|---|
-| 🎮 Games | [[Games MOC]] · [[Top Games Chart 2026-11-02]] | 27 game profiles: loop, virality, monetization, art, UI, animation, SFX, VFX, systems |
+| 🎮 Games | [[Games MOC]] · [[Top Games Chart 2026-11-02]] | 28 game profiles/research entries: loop, virality, monetization, art, UI, animation, SFX, VFX, systems |
 | 🧠 Game design | [[Game Design MOC]] | Virality, gameplay loops, retention, monetization, thumbnails, discovery algorithm, launch checklist |
 | 🧊 3D assets | [[3D Assets MOC]] | Low → high fidelity tiers, art styles, when to use each, Blender pipeline, budgets, asset sources |
 | 🖼️ UI / GUI | [[UI MOC]] | UI breakdown of every top game, design principles, patterns, Luau UI components |
@@ -27,6 +27,10 @@ A reference library for making Roblox games with AI. Every area is grounded in w
 ## Visual reference library
 
 Start at [[Visual References MOC]] for five illustrated study boards with offline images and playable demonstration clips. Read [[Media Attribution and Reuse]] before redistributing the media.
+
+## Latest research batch — 2026-11-02
+
+Seven stubs expanded: [[Data Saving and Player Profiles]], [[Networking and Remotes]], [[Security and Anti-Exploit]], [[Coding References]], [[VFX Textures and Flipbooks]], [[Environmental and Weather VFX]] and [[Doors]]. [[Pressure]] adds a supplementary game reference. VFX notes reuse local attributed images/clips; the two horror profiles link online official thumbnails. [[Research Coverage and Next Additions]] records remaining gaps and priorities.
 
 ## Quick paths
 

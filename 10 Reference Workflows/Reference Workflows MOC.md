@@ -9,6 +9,10 @@ status: researched
 
 Turn selected visual references into original Roblox implementation briefs. These notes add a working process alongside the vault's existing research and offline media. The organizational inspiration is credited to [[Roblox AI External Library]]; the briefs are original additions to this vault.
 
+## Research coverage
+
+[[Research Coverage and Next Additions]] records the latest researched notes, illustrated additions and remaining placeholders.
+
 ## Start here
 
 1. Browse [[Visual References MOC]] for offline examples or [[Roblox AI External Library]] for external collections.

@@ -7,7 +7,7 @@ status: researched
 
 # Games MOC
 
-Profiles of the 20 **Top Playing Now** games plus 7 chart staples, in chart order (snapshot 2026-11-02, see [[Top Games Chart 2026-11-02]]). `researched` = full profile; `stub` = official stats only, with backlinks to vault notes that already discuss the game.
+Profiles of the 20 **Top Playing Now** games plus 7 chart staples, in chart order (snapshot 2026-11-02, see [[Top Games Chart 2026-11-02]]). `researched` = source-backed research with stated limits; it does not necessarily mean a full playthrough or coverage of every system. `stub` = official stats only, with backlinks to related notes. DOORS was expanded on 2026-11-02 without refreshing its original chart statistics.
 
 | # | Game | Genre | Playing | Status |
 |---|---|---|---|---|
@@ -34,10 +34,14 @@ Profiles of the 20 **Top Playing Now** games plus 7 chart staples, in chart orde
 | 21 | [[Dress To Impress]] | Roleplay & Avatar Sim / Dress Up | 40,018 | researched |
 | 22 | [[Sols RNG]] | Simulation / Incremental Simulator | 41,579 | researched |
 | 23 | [[Grow a Garden]] | Simulation / Tycoon | 17,930 | researched |
-| 24 | [[Doors]] | Survival / Escape | 24,762 | stub |
+| 24 | [[Doors]] | Survival / Escape | 24,762 | researched |
 | 25 | [[Forsaken]] | Survival / 1 vs All | 28,221 | stub |
 | 26 | [[Tower Defense Simulator]] | Strategy / Tower Defense | 22,204 | stub |
 | 27 | [[Blade Ball]] | Action / Battlegrounds & Fighting | 12,066 | stub |
+
+## Supplementary game references
+
+- [[Pressure]] — creator-page research and a comparative horror study plan; online official thumbnail. Outside the dated chart, with no current statistics or direct playthrough claimed.
 
 ## By genre
 

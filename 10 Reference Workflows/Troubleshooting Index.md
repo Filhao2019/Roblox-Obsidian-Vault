@@ -17,8 +17,8 @@ Start from a symptom, then inspect the linked material and reproduce the issue. 
 | Effects obscure a target or linger after use | Compare contrast, duration, repeated triggers and cleanup | [[Particles and Beams Visual Study]] · [[VFX and Audio Brief]] |
 | Ambience sounds wrong as the player moves | Listen along a repeatable route and record source placement | [[Spatial Audio Visual Study]] |
 | Room looks cluttered or direction is unclear | Review player-height views, major shapes and route | [[Style and Environment Brief]] |
-| Player progress fails to save | Gather load/save errors and reproduction steps before changing persistence | [[Data Saving and Player Profiles]] — currently a stub |
-| Currency changes or remote requests seem exploitable | Review client/server responsibility and actual request validation | [[Security and Anti-Exploit]] · [[Networking and Remotes]] — currently stubs |
+| Player progress fails to save | Gather load/save errors and reproduction steps before changing persistence | [[Data Saving and Player Profiles]] — researched guidance, runtime checks pending |
+| Currency changes or remote requests seem exploitable | Review client/server responsibility and actual request validation | [[Security and Anti-Exploit]] · [[Networking and Remotes]] — researched guidance, runtime checks pending |
 | Search returns an incomplete answer | Read the returned status and narrow the query | [[Vault Tools and Evidence]] |
 | Feature touches several systems or scope is unclear | Specify one observable outcome, authority and failure cases | [[Feature Triage and Build Contract]] · [[Feature Build Contract]] |
 | Third-party asset or skill needs review | Record provenance, executable content, permissions and unknowns without running it | [[Third Party Asset Intake Review]] · [[Asset Intake Record]] |

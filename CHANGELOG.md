@@ -2,6 +2,10 @@
 
 ## Unreleased — 2026-11-02
 
+- Expanded seven stubs: persistence, networking, security, coding references, flipbooks, environmental VFX and DOORS. Added a source-scoped Pressure reference and a research coverage map.
+- Embedded three existing offline images and one existing clip directly in the new VFX guidance; linked official online thumbnails in the horror profiles. No third-party game media was bundled.
+- Updated coverage/status navigation; retained historical chart data and separated research, original exercises and untested implementation.
+
 - Added four original, passive Markdown guides and four blank worksheets for feature contracts, third-party asset intake, device/multiplayer test evidence and release recovery planning.
 - Linked the additions from Home, the workflow hub, troubleshooting and relevant area maps. Existing evidence conventions, runtime limitations and coding-stub statuses are preserved.
 - Credited AshExplained's reviewed planning ideas at a pinned revision. No upstream skills, setup blocks, scripts, dependencies, remote embeds, automatic actions or agent-configuration changes are included.
