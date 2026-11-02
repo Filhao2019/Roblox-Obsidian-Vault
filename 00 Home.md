@@ -55,3 +55,7 @@ _Templates/                   note templates
 ## Build from references
 
 Use [[Reference Workflows MOC]] to turn selected images and clips into an original Roblox task brief. [[Roblox AI External Library]] adds inspected category links to izzyfrm's broader online collection, with provenance and plugin-status notes.
+
+## Local search and evidence tools
+
+Open [[Vault Tools and Evidence]] for local search, section reading and validation commands. [[Troubleshooting Index]] maps symptoms to reference notes; [[Evidence and Quality Review]] and [[Evidence Record]] help track what was actually checked.

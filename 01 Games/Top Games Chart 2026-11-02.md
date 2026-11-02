@@ -2,6 +2,7 @@
 title: Top Games Chart 2026-11-02
 date: 2026-11-02
 tags: [games, charts, data]
+status: researched
 source: Roblox explore-api get-sorts (Top Playing Now, all devices, all locations) + games.roblox.com/v1/games
 ---
 

@@ -1,5 +1,14 @@
 # Changelog
 
+## v1.3.0 — 2026-11-02
+
+- Added original Python-standard-library local search, exact note/section reading and structured JSON search results with evidence status preserved.
+- Added a vault checker for note metadata, wiki/file-embed targets, media path containment and SHA-256 integrity; regression tests cover errors as well as successful checks.
+- Added GitHub Actions validation using pinned official actions and read-only repository permissions.
+- Added an original troubleshooting index, evidence review guidelines and project evidence template, linked from Home and area maps.
+- Added the missing researched status to the dated chart note; existing chart data and incomplete system notes are preserved.
+- Credited LihFolk's tooling ideas without importing its code, hooks, gameplay modules, plugin or separately restricted assets. Existing 21 images and 9 videos remain included.
+
 ## v1.2.0 — 2026-11-02
 
 - Added a pinned guide and machine-readable catalog of izzyfrm/roblox-ai's 12 visual reference collections, with independently counted files and explicit review limits.

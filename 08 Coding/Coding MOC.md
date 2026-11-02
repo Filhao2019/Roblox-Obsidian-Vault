@@ -7,7 +7,7 @@ status: researched
 
 # Coding MOC
 
-Code architecture and genre systems. **Every note here is still a stub** — this area hasn't been researched yet. Working Luau already lives in [[UI Implementation in Luau]], [[Animation Implementation in Luau]], [[Audio Implementation in Luau]] and [[VFX Implementation in Luau]].
+Code architecture and genre systems. **Every note here is still a stub** — this area hasn't been researched yet. Luau reference examples already live in [[UI Implementation in Luau]], [[Animation Implementation in Luau]], [[Audio Implementation in Luau]] and [[VFX Implementation in Luau]].
 
 | Note | Status |
 |---|---|
@@ -29,6 +29,11 @@ Code architecture and genre systems. **Every note here is still a stub** — thi
 ## Reference-driven implementation
 
 [[Reference Workflows MOC]] provides task briefs that connect design evidence to implementation. The system notes above retain their existing stub status; these briefs do not supply or verify runnable code.
+
+
+## Search and validation
+
+Use [[Vault Tools and Evidence]] to search this section with status labels and check library structure. [[Troubleshooting Index]] links persistence and networking symptoms to the existing stubs; [[Evidence and Quality Review]] explains how to record future implementation tests.
 
 
 Links: [[00 Home]]

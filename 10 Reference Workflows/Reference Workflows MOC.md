@@ -33,4 +33,11 @@ The reviewed izzyfrm repository is a media collection, not an installable plugin
 - [[Media Attribution and Reuse]] — the existing local media collection's attribution.
 
 
+## Tools and quality review
+
+- [[Vault Tools and Evidence]] — searchable notes and automated structural checks.
+- [[Troubleshooting Index]] — symptom-based starting points with uncertainty preserved.
+- [[Evidence and Quality Review]] · [[Evidence Record]] — explicit evidence and acceptance results.
+
+
 Links: [[Reference Workflows MOC]] · [[Visual References MOC]] · [[00 Home]]

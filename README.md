@@ -41,3 +41,11 @@ Roblox documentation media is **CC BY 4.0**, separately from the vault text's MI
 ## Reference workflows — v1.2.0
 
 Start at `10 Reference Workflows/Reference Workflows MOC.md` for five original build briefs, a selection worksheet, and a workflow for converting inspected references into Roblox tasks. `Roblox AI External Library.md` credits [izzyfrm/roblox-ai](https://github.com/izzyfrm/roblox-ai) and links its 12 categories at a reviewed revision. External images remain online and are not included or relicensed here. The reviewed upstream repository contains no plugin package; this update adds reference workflows, not a software installation.
+
+## Local tools and evidence — v1.3.0
+
+Run `python _tools/vault.py search "mobile UI"` to find notes with their status, `python _tools/vault.py read "Note Title" --heading "Heading"` for a section, and `python _tools/vault.py check` for note/link/embed/media integrity checks. Python 3.10+, standard library only; no model, key, installation or network required. See `_tools/README.md` and `10 Reference Workflows/Vault Tools and Evidence.md`.
+
+New troubleshooting, evidence-review and evidence-record notes connect symptoms and project acceptance criteria to the library. GitHub Actions runs the checker and regression tests. These are structural checks, not verification of Roblox APIs or runtime behavior. Existing code stubs remain stubs.
+
+Inspired by the tooling ideas in [LihFolk Vault V2](https://github.com/lihfolk-cy/v2-vault/tree/43ba05dbad93e9ff4e4b06633d10260ca59f0602); the implementation is original to this repository. No upstream hooks, plugin, gameplay modules or asset pack is bundled.
