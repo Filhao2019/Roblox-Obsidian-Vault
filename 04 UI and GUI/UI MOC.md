@@ -19,6 +19,7 @@ Map of content for `04 UI and GUI/`: how the top Roblox games build interfaces, 
 - [[Color Typography and Iconography]] — rarity colour table, fonts, icon rules
 - [[UI Animation and Juice]] — easing, springs, count-up, shine sweeps
 - [[Mobile Console and Responsive UI]] — Scale vs Offset, constraints, safe areas, gamepad
+- [[Device and Multiplayer Test Plan]] · [[Playtest Record]] — actual device/emulator, input and scenario evidence; blank checks stay pending
 - [[UI Implementation in Luau]] — typed, untested components (button, counter, popup, toasts, shop grid, rarity frame, responsive, pet preview)
 - [[UI Tools Plugins and Kits]] — Figma workflow, plugins, Fusion / Vide / React Lua
 - [[UI References]] — categorized link library

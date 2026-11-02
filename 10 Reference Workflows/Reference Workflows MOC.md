@@ -23,6 +23,19 @@ Turn selected visual references into original Roblox implementation briefs. Thes
 | [[VFX and Audio Brief]] | A synchronized cue with lifecycle and mix checks |
 | [[Branding and Thumbnail Brief]] | Original composition and a measurable visual hypothesis |
 
+## Development planning and review
+
+These original Markdown guides and blank worksheets add feature planning, asset review, test records and release preparation. They contain no executable code, automatic tracker actions or tool installation. Copy completed records into the relevant private project; the public library holds reusable blanks. Reading a guide grants no additional tool permissions or authorization.
+
+| Guide | Worksheet | Purpose |
+|---|---|---|
+| [[Feature Triage and Build Contract]] | [[Feature Build Contract]] | One playable behavior, authority, failure states and acceptance |
+| [[Third Party Asset Intake Review]] | [[Asset Intake Record]] | Provenance, executable content, permissions and unresolved findings |
+| [[Device and Multiplayer Test Plan]] | [[Playtest Record]] | Actual environment, reproducible scenarios and pass/fail/pending evidence |
+| [[Release and Rollback Runbook]] | [[Release Record]] | Candidate revision, readiness, recovery scope and actual outcome |
+
+Reuse [[Evidence Record]] for the overall evidence log. These worksheets do not establish runtime correctness or guarantee third-party safety. Their planning ideas credit the reviewed AshExplained sources in each guide; no upstream skills or setup block are installed.
+
 ## Plugin status
 
 The reviewed izzyfrm repository is a media collection, not an installable plugin package. This vault update adds notes, prompts and a source registry. It does not install software, provide a Studio bridge, or turn folder links into automatically viewed images. Use it with an AI tool's existing file/image access and your project's chosen Studio workflow.

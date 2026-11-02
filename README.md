@@ -21,6 +21,12 @@ An [Obsidian](https://obsidian.md) vault of references for building Roblox games
 | `07 VFX/` | Effects of top games, particles/beams/trails, VFX packs, textures, VFX code |
 | `08 Coding/` | Architecture, data, networking, security, genre systems, open-source libraries |
 
+## Development planning and review
+
+The workflow folder includes four original guides with matching blank worksheets: feature build contracts, third-party asset intake, device/multiplayer test records, and release/rollback planning. Start at `10 Reference Workflows/Reference Workflows MOC.md`. Copy completed records into the relevant private project; keep this public library free of credentials and private logs.
+
+These additions are passive Markdown. They add no scripts, dependencies, hooks, remote embeds, automatic GitHub actions or changes to agent configuration. They do not install the upstream skill pack or establish that a game or outside asset is safe. Each guide credits the pinned [AshExplained/roblox-skills](https://github.com/AshExplained/roblox-skills/tree/a3a7b940f0899d4a69c1a7df625996bdfc917388) planning inspiration; the text is independently written.
+
 ## Data
 
 Game stats come from Roblox's public APIs (`explore-api` chart sorts and `games.roblox.com`), snapshot **2026-11-02**. Raw data lives in `_Data/`.

@@ -31,6 +31,10 @@ Code architecture and genre systems. **Every note here is still a stub** — thi
 [[Reference Workflows MOC]] provides task briefs that connect design evidence to implementation. The system notes above retain their existing stub status; these briefs do not supply or verify runnable code.
 
 
+## Feature contracts and test evidence
+
+Use [[Feature Triage and Build Contract]] and [[Feature Build Contract]] to specify a complete behavior and its client/server ownership. [[Device and Multiplayer Test Plan]] and [[Playtest Record]] record actual runtime checks. These are planning/evidence documents; all system notes in this section retain their stub status.
+
 ## Search and validation
 
 Use [[Vault Tools and Evidence]] to search this section with status labels and check library structure. [[Troubleshooting Index]] links persistence and networking symptoms to the existing stubs; [[Evidence and Quality Review]] explains how to record future implementation tests.

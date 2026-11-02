@@ -60,6 +60,8 @@ Map of the `02 Game Design/` folder: what makes top Roblox games spread, loop, r
 
 - [[Branding and Thumbnail Brief]] — original task frame, deliverables and acceptance checks.
 - [[Roblox AI External Library]] — broader online visual categories.
+- [[Feature Triage and Build Contract]] — one playable feature, scope, ownership and acceptance.
+- [[Release and Rollback Runbook]] · [[Release Record]] — documentation-only release readiness and recovery planning.
 
 
 Links: [[00 Home]]

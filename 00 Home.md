@@ -56,6 +56,10 @@ _Templates/                   note templates
 
 Use [[Reference Workflows MOC]] to turn selected images and clips into an original Roblox task brief. [[Roblox AI External Library]] adds inspected category links to izzyfrm's broader online collection, with provenance and plugin-status notes.
 
+## Plan a complete feature and record its checks
+
+Start with [[Feature Triage and Build Contract]] and [[Feature Build Contract]]. Use [[Third Party Asset Intake Review]] for outside content, [[Device and Multiplayer Test Plan]] for test scenarios, and [[Release and Rollback Runbook]] for readiness and recovery planning. Their blank worksheets live in [[Reference Workflows MOC]]. These are passive Markdown documents; the library performs no installation, game changes or publishing through them.
+
 ## Local search and evidence tools
 
 Open [[Vault Tools and Evidence]] for local search, section reading and validation commands. [[Troubleshooting Index]] maps symptoms to reference notes; [[Evidence and Quality Review]] and [[Evidence Record]] help track what was actually checked.

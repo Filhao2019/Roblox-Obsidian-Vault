@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased — 2026-11-02
+
+- Added four original, passive Markdown guides and four blank worksheets for feature contracts, third-party asset intake, device/multiplayer test evidence and release recovery planning.
+- Linked the additions from Home, the workflow hub, troubleshooting and relevant area maps. Existing evidence conventions, runtime limitations and coding-stub statuses are preserved.
+- Credited AshExplained's reviewed planning ideas at a pinned revision. No upstream skills, setup blocks, scripts, dependencies, remote embeds, automatic actions or agent-configuration changes are included.
+
 ## v1.3.0 — 2026-11-02
 
 - Added original Python-standard-library local search, exact note/section reading and structured JSON search results with evidence status preserved.
