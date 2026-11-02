@@ -1,0 +1,24 @@
+---
+title: VFX MOC
+date: 2026-11-02
+tags: [moc]
+status: researched
+---
+
+# VFX MOC
+
+Visual effects: what the top games do and how to build it. Researched: [[VFX of Top Games]], [[VFX Fundamentals]], [[VFX Packs and Marketplaces]], [[VFX Implementation in Luau]]. Notes marked `stub` are still to research.
+
+| Note | Status |
+|---|---|
+| [[Combat and Ability VFX]] | stub |
+| [[Environmental and Weather VFX]] | stub |
+| [[Reward and Rarity VFX]] | stub |
+| [[VFX Fundamentals]] | researched |
+| [[VFX Implementation in Luau]] | untested |
+| [[VFX Packs and Marketplaces]] | researched |
+| [[VFX References]] | stub |
+| [[VFX Textures and Flipbooks]] | stub |
+| [[VFX of Top Games]] | researched |
+
+Links: [[00 Home]]
