@@ -41,4 +41,10 @@ Map of content for the 3D Assets and Models folder: how top Roblox games look, w
 - [[Environment and Materials Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
 
 
+## Reference implementation brief
+
+- [[Style and Environment Brief]] — original task frame, deliverables and acceptance checks.
+- [[Roblox AI External Library]] — broader online visual categories.
+
+
 Links: [[Games MOC]] · [[00 Home]]

@@ -52,4 +52,9 @@ Map of content for sound effects, music and audio code. Start with the chart-bas
 - [[Spatial Audio Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
 
 
+## Reference implementation brief
+
+- [[VFX and Audio Brief]] — synchronized cue design and audio-specific evidence requirements.
+
+
 Links: [[00 Home]] · [[Games MOC]]

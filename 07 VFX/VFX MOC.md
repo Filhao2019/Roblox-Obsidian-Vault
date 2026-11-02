@@ -27,4 +27,10 @@ Visual effects: what the top games do and how to build it. Researched: [[VFX of 
 - [[Particles and Beams Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
 
 
+## Reference implementation brief
+
+- [[VFX and Audio Brief]] — original task frame, deliverables and acceptance checks.
+- [[Roblox AI External Library]] — broader online visual categories.
+
+
 Links: [[00 Home]]

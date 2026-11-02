@@ -37,3 +37,7 @@ MIT License.
 Open `09 Visual References/Visual References MOC.md` for five study boards containing 21 local images and 9 local MP4 clips (50.4 MB). Examples cover environment art, PBR materials, UI, animation, particles, beams and spatial audio. Each includes a source link and study prompt. Obsidian plays local videos inline; other Markdown viewers may require opening the file.
 
 Roblox documentation media is **CC BY 4.0**, separately from the vault text's MIT license. See `09 Visual References/Media Attribution and Reuse.md`, `_Media/ROBLOX-CC-BY-4.0.txt` and `_Data/visual-media-2026-11-02.json` for attribution and checksums. Use `_Templates/Visual Reference Template.md` to add your own references.
+
+## Reference workflows — v1.2.0
+
+Start at `10 Reference Workflows/Reference Workflows MOC.md` for five original build briefs, a selection worksheet, and a workflow for converting inspected references into Roblox tasks. `Roblox AI External Library.md` credits [izzyfrm/roblox-ai](https://github.com/izzyfrm/roblox-ai) and links its 12 categories at a reviewed revision. External images remain online and are not included or relicensed here. The reviewed upstream repository contains no plugin package; this update adds reference workflows, not a software installation.

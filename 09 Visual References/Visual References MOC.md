@@ -37,4 +37,9 @@ Use [[Visual Reference Template]] for a screenshot or clip. Record creator, sour
 - [[3D Asset References]] · [[UI References]] · [[Animation References]] · [[Audio References]] · [[VFX References]] — broader research libraries.
 
 
+## Broader inspiration and implementation briefs
+
+Browse [[Roblox AI External Library]] for twelve online collections, then use [[Reference Workflows MOC]] and [[Reference Selection Sheet]] to document inspected references and choose an implementation task.
+
+
 Links: [[Visual References MOC]] · [[Visual References MOC]] · [[00 Home]]

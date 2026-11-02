@@ -1,0 +1,107 @@
+{
+  "checked_on": "2026-11-02",
+  "repository": "https://github.com/izzyfrm/roblox-ai",
+  "commit": "58a7279b663a2409d60049b1776ba4c5d7a8c10b",
+  "tree_complete": true,
+  "root_license_file_found": false,
+  "plugin_or_skill_manifest_found": false,
+  "policy": "External directory links only; no upstream text, images or code copied into the vault.",
+  "categories": [
+    {
+      "name": "animations",
+      "url": "https://github.com/izzyfrm/roblox-ai/tree/58a7279b663a2409d60049b1776ba4c5d7a8c10b/animations",
+      "images": 16,
+      "videos": 0,
+      "review": "directory paths and file counts inspected; individual images not reviewed",
+      "redistribution": "not established; link-only"
+    },
+    {
+      "name": "cutscenes",
+      "url": "https://github.com/izzyfrm/roblox-ai/tree/58a7279b663a2409d60049b1776ba4c5d7a8c10b/cutscenes",
+      "images": 6,
+      "videos": 0,
+      "review": "directory paths and file counts inspected; individual images not reviewed",
+      "redistribution": "not established; link-only"
+    },
+    {
+      "name": "game-refs",
+      "url": "https://github.com/izzyfrm/roblox-ai/tree/58a7279b663a2409d60049b1776ba4c5d7a8c10b/game-refs",
+      "images": 6604,
+      "videos": 0,
+      "review": "directory paths and file counts inspected; individual images not reviewed",
+      "redistribution": "not established; link-only"
+    },
+    {
+      "name": "logos",
+      "url": "https://github.com/izzyfrm/roblox-ai/tree/58a7279b663a2409d60049b1776ba4c5d7a8c10b/logos",
+      "images": 10,
+      "videos": 0,
+      "review": "directory paths and file counts inspected; individual images not reviewed",
+      "redistribution": "not established; link-only"
+    },
+    {
+      "name": "previews",
+      "url": "https://github.com/izzyfrm/roblox-ai/tree/58a7279b663a2409d60049b1776ba4c5d7a8c10b/previews",
+      "images": 709,
+      "videos": 0,
+      "review": "directory paths and file counts inspected; individual images not reviewed",
+      "redistribution": "not established; link-only"
+    },
+    {
+      "name": "roblox-docs",
+      "url": "https://github.com/izzyfrm/roblox-ai/tree/58a7279b663a2409d60049b1776ba4c5d7a8c10b/roblox-docs",
+      "images": 3732,
+      "videos": 0,
+      "review": "directory paths and file counts inspected; individual images not reviewed",
+      "redistribution": "not established; link-only"
+    },
+    {
+      "name": "sfx",
+      "url": "https://github.com/izzyfrm/roblox-ai/tree/58a7279b663a2409d60049b1776ba4c5d7a8c10b/sfx",
+      "images": 12,
+      "videos": 0,
+      "review": "directory paths and file counts inspected; individual images not reviewed",
+      "redistribution": "not established; link-only"
+    },
+    {
+      "name": "style-refs",
+      "url": "https://github.com/izzyfrm/roblox-ai/tree/58a7279b663a2409d60049b1776ba4c5d7a8c10b/style-refs",
+      "images": 295,
+      "videos": 0,
+      "review": "directory paths and file counts inspected; individual images not reviewed",
+      "redistribution": "not established; link-only"
+    },
+    {
+      "name": "thumbnails",
+      "url": "https://github.com/izzyfrm/roblox-ai/tree/58a7279b663a2409d60049b1776ba4c5d7a8c10b/thumbnails",
+      "images": 10,
+      "videos": 0,
+      "review": "directory paths and file counts inspected; individual images not reviewed",
+      "redistribution": "not established; link-only"
+    },
+    {
+      "name": "ui-styles",
+      "url": "https://github.com/izzyfrm/roblox-ai/tree/58a7279b663a2409d60049b1776ba4c5d7a8c10b/ui-styles",
+      "images": 153,
+      "videos": 0,
+      "review": "directory paths and file counts inspected; individual images not reviewed",
+      "redistribution": "not established; link-only"
+    },
+    {
+      "name": "vfx",
+      "url": "https://github.com/izzyfrm/roblox-ai/tree/58a7279b663a2409d60049b1776ba4c5d7a8c10b/vfx",
+      "images": 30,
+      "videos": 0,
+      "review": "directory paths and file counts inspected; individual images not reviewed",
+      "redistribution": "not established; link-only"
+    },
+    {
+      "name": "visual-refs",
+      "url": "https://github.com/izzyfrm/roblox-ai/tree/58a7279b663a2409d60049b1776ba4c5d7a8c10b/visual-refs",
+      "images": 415,
+      "videos": 5,
+      "review": "directory paths and file counts inspected; individual images not reviewed",
+      "redistribution": "not established; link-only"
+    }
+  ]
+}

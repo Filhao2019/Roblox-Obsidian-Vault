@@ -56,4 +56,10 @@ Map of the `02 Game Design/` folder: what makes top Roblox games spread, loop, r
 - Design-target numbers (for example rarity tables or retention goals) are *planning ranges*, not measurements of any specific game.
 - Chart numbers change hourly; the Q3 2026 platform figures come from press summaries because the investor deck could not be text-extracted.
 
+## Reference implementation brief
+
+- [[Branding and Thumbnail Brief]] — original task frame, deliverables and acceptance checks.
+- [[Roblox AI External Library]] — broader online visual categories.
+
+
 Links: [[00 Home]]

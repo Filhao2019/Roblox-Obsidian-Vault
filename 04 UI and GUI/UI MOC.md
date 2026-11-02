@@ -50,4 +50,10 @@ The research pass could not open screenshots, so visual specifics in the breakdo
 - [[UI Layout and Motion Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
 
 
+## Reference implementation brief
+
+- [[UI Build Brief]] — original task frame, deliverables and acceptance checks.
+- [[Roblox AI External Library]] — broader online visual categories.
+
+
 Links: [[00 Home]]

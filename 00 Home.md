@@ -51,3 +51,7 @@ Start at [[Visual References MOC]] for five illustrated study boards with offlin
 _Data/                        raw JSON snapshots
 _Templates/                   note templates
 ```
+
+## Build from references
+
+Use [[Reference Workflows MOC]] to turn selected images and clips into an original Roblox task brief. [[Roblox AI External Library]] adds inspected category links to izzyfrm's broader online collection, with provenance and plugin-status notes.

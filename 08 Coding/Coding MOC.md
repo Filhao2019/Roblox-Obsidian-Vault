@@ -26,4 +26,9 @@ Code architecture and genre systems. **Every note here is still a stub** — thi
 | [[Tower Defense Systems]] | stub |
 | [[Trading Systems]] | stub |
 
+## Reference-driven implementation
+
+[[Reference Workflows MOC]] provides task briefs that connect design evidence to implementation. The system notes above retain their existing stub status; these briefs do not supply or verify runnable code.
+
+
 Links: [[00 Home]]

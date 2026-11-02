@@ -49,4 +49,10 @@ Map of content for animation, camera and cutscene knowledge. Start with principl
 - [[Animation Poses and Timing Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
 
 
+## Reference implementation brief
+
+- [[Animation and Cutscene Brief]] — original task frame, deliverables and acceptance checks.
+- [[Roblox AI External Library]] — broader online visual categories.
+
+
 Links: [[00 Home]] · [[Games MOC]]
