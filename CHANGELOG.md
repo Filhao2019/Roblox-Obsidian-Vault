@@ -1,6 +1,6 @@
 # Changelog
 
-## Unreleased — 2026-11-02
+## v1.4.0 — Research and Practical Workflows — 2026-11-02
 
 - Expanded seven stubs: persistence, networking, security, coding references, flipbooks, environmental VFX and DOORS. Added a source-scoped Pressure reference and a research coverage map.
 - Embedded three existing offline images and one existing clip directly in the new VFX guidance; linked official online thumbnails in the horror profiles. No third-party game media was bundled.
