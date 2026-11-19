@@ -7,6 +7,8 @@ status: researched
 
 # UI References
 
+For inspected gameplay images and clips, open [[Roblox Top 30 UI Study 2026-11-19]] and [[Roblox UI Patterns from the Top 30]].
+
 Categorized link library for the UI folder. Every URL here was seen in a search result during the 2026-11-02 research pass (several pages were only seen as snippets, not fully opened). Quality varies: official docs first, then DevForum, then third-party guides. Back to [[UI MOC]].
 
 **Gaps:** no game-UI screenshots were reviewed; no wiki results for Grow a Garden, Blade Ball, Tower Defense Simulator, Forsaken, Dandy's World, Evade, Violence District, Jujutsu Shenanigans, Doors HUD (search budget ran out). No verified source for "UI Labs" or "Interface Tools" plugins, or for specific free UI kits.

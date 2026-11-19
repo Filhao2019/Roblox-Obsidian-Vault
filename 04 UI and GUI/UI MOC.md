@@ -7,9 +7,11 @@ status: researched
 
 # UI MOC
 
-Map of content for `04 UI and GUI/`: how the top Roblox games build interfaces, the patterns behind them, and original Luau code to reproduce them. Start with [[UI Breakdown of Top Games]] for evidence, then [[UI Design Principles for Roblox]] for the why.
+Map of content for `04 UI and GUI/`. Start with [[Roblox Top 30 UI Study 2026-11-19]] for gameplay captures and [[Roblox UI Patterns from the Top 30]] to turn the observations into an original interface.
 
 ## Notes
+- [[Roblox Top 30 UI Study 2026-11-19]] — 30 linked gameplay screens, with layout, proportional size, color and a design takeaway per game
+- [[Roblox UI Patterns from the Top 30]] — comparisons by player task, a brief workflow and a Hollow Grand example
 - [[UI Breakdown of Top Games]] — per-game HUD, buttons, palette, fonts, menus, signature moments (all 27 chart games)
 - [[UI Design Principles for Roblox]] — strokes, gradients, hierarchy, consistency, contrast
 - [[HUD and Currency Displays]] — layout zones, currency pills, number suffixes, cooldowns
@@ -28,14 +30,14 @@ Map of content for `04 UI and GUI/`: how the top Roblox games build interfaces, 
 [[Game Design MOC]] · [[Games MOC]] · [[UI Sounds]] · [[Reward and Rarity VFX]] · [[Animation Implementation in Luau]] · [[Audio Implementation in Luau]]
 
 ## Read order for an agent building a UI
-1. [[UI Breakdown of Top Games]] (find the closest reference game)
+1. [[Roblox UI Patterns from the Top 30]] and [[Roblox Top 30 UI Study 2026-11-19]] (pick and open references by player task)
 2. [[UI Design Principles for Roblox]]
 3. Relevant pattern note (HUD, shop, inventory, popups)
 4. [[Mobile Console and Responsive UI]] before building
 5. [[UI Implementation in Luau]] to scaffold, [[UI Animation and Juice]] to polish
 
 ## Honest limits
-The research pass could not open screenshots, so visual specifics in the breakdown are largely marked `(unverified)`. See the gaps list inside [[UI References]].
+The November 2 breakdown has visual details marked `(unverified)`. The November 19 study records what was visible in published gameplay captures and gives approximate frame proportions. See [[UI References]] for older source gaps.
 
 ## References
 - [UI appearance modifiers](https://create.roblox.com/docs/en-us/ui/appearance-modifiers) — official docs · UIStroke/UIGradient/UICorner

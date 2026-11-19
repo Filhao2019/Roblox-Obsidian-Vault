@@ -7,6 +7,8 @@ status: researched
 
 # Game UI Screenshot Board
 
+For a separate board of directly inspected Roblox gameplay frames, see [[Roblox Top 30 UI Study 2026-11-19]].
+
 407 UI references from 89 sources: Steam store screenshots of famous games (HUDs, menus, diegetic UI), official thumbnails of Roblox games known for strong UI (Forsaken, Pet Simulator 99, Anime Vanguards, Blade Ball, Rivals, Sol's RNG and more), and YouTube thumbnails of Roblox UI designer showcases. Roblox thumbnails are marketing art, so many show key art rather than the in-game UI; the Steam and showcase images show UI most directly.
 
 Images are **hotlinked** from their original hosts (Steam, Roblox CDN, YouTube, Creator Store); this repository does not redistribute them, and you need an internet connection to see them. Roblox CDN links can stop working when a game replaces its thumbnails. Sources: `_Data/reference-media-2026-11-02.json`.

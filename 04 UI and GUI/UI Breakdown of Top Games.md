@@ -7,6 +7,8 @@ status: researched
 
 # UI Breakdown of Top Games
 
+The November 19 follow-up, [[Roblox Top 30 UI Study 2026-11-19]], uses gameplay imagery and viewport-relative sizing. See [[Roblox UI Patterns from the Top 30]] for comparisons by player task.
+
 A per-game read of how the 27 chart games present their interface: where the HUD pieces sit, how buttons are built, which palette and fonts they lean on, and the one UI moment each game is known for. Companion pattern notes: [[UI Design Principles for Roblox]], [[HUD and Currency Displays]], [[Shop and Monetization UI]], [[Inventory Trading and Collection UI]], [[Color Typography and Iconography]], [[UI Animation and Juice]].
 
 **Confidence warning.** Search tools in this research pass returned guides and wikis that describe mechanics, not pixel-level screenshots. Layout, stroke, radius and hex values below are therefore a mix of (a) what guides state about the mechanic and (b) typical values the genre uses. Anything visual that I could not tie to a source is marked `(unverified)`. Hex codes are *approximate palette anchors*, not sampled pixels. Before copying a look, open the game and eyeball it; see the chart in [[Top Games Chart 2026-11-02]].
