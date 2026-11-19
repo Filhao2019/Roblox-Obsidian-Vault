@@ -1,5 +1,11 @@
 # Changelog
 
+## v2.1.0 — Roblox UI Reference Study — 2026-11-19
+
+- Added a dated study of 30 experiences from Roblox's Top Playing Now chart. Each entry links an inspected gameplay capture or clip and records its layout, approximate screen footprint, color and a design takeaway.
+- Added a UI patterns guide organized by player task, with a workflow for adapting references and an example for a pre-game class shop and quest board.
+- Linked the new notes from the UI and visual reference indexes. The gameplay evidence is hosted at its original sources.
+
 ## v2.0.0 — v2: LihFolk V2 Import and Visual Boards — 2026-11-02
 
 - Imported 1,360 notes and images from LihFolk Vault V2 (CC BY 4.0, pinned commit) into `11 LihFolk V2/`, unchanged and credited in `ABOUT THIS IMPORT.md`. This adds sections the vault lacked: anti-exploit, physics and vehicles, level design, accessibility, player QoL, thumbnails and CTR, engine reference cards, an API atlas, a bug-symptom table (`SYMPTOMS.md`) and a topic router (`ROUTER.md`).
