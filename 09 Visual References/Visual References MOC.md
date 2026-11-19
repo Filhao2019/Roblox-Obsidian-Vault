@@ -16,6 +16,8 @@ Start here to study pictures and motion alongside the vault's written guides. Th
 | Environment and materials | [[Environment and Materials Visual Study]] | Modular construction, texture maps, lighting and atmosphere |
 | UI layout and motion | [[UI Layout and Motion Visual Study]] | Anchors, phone reach, easing and text reveal |
 | Ranked Roblox UI (gameplay captures) | [[Roblox Top 30 UI Study 2026-11-19]] | Thirty source-linked game screens, with layout, color and approximate footprint |
+| Ranked Roblox UI, ranks 31–50 | [[Roblox Top 50 UI Study Ranks 31-50 2026-11-19]] | Twenty more chart games in the same format; promo-only entries are labelled |
+| Figma style briefs | [[Cartoony UI Figma Guide]] · [[Stud UI Figma Guide]] · [[Figma Workflow for Roblox UI]] | Layered cartoony menus, stud-texture HUD buttons and the Figma-to-Studio handoff |
 | Animation | [[Animation Poses and Timing Visual Study]] | Reference poses, foot contact, interpolation and a complete walk cycle |
 | VFX | [[Particles and Beams Visual Study]] | Particle texture, color, transparency and beam construction |
 | Audio | [[Spatial Audio Visual Study]] | Volumetric sources, falloff curves and an in-world demonstration |

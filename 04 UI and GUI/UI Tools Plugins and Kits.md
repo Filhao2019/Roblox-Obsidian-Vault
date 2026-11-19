@@ -10,6 +10,8 @@ status: researched
 Design tools, Studio plugins and code frameworks for building Roblox UI. Pair with [[UI Implementation in Luau]] and [[Project Architecture and Frameworks]]. Plugin names below come from DevForum threads; prices, availability and compatibility change, so check each listing before relying on it.
 
 ## Design workflow (Figma / Photopea / Photoshop)
+
+Full Figma-to-Studio and AI-agent workflow: [[Figma Workflow for Roblox UI]].
 1. Sketch the screen as simple boxes first; block layout before detail ([UI design guide](https://devforum.roblox.com/t/the-ultimate-ui-design-guide/1236916)).
 2. Design in Figma, using a font close to a Roblox built-in (Montserrat to Gotham pairing suggested there).
 3. Export icons as white-on-transparent PNGs, recolour in Studio with `ImageColor3`.

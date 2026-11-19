@@ -7,7 +7,7 @@ status: researched
 
 # UI References
 
-For inspected gameplay images and clips, open [[Roblox Top 30 UI Study 2026-11-19]] and [[Roblox UI Patterns from the Top 30]].
+For inspected gameplay images and clips, open [[Roblox Top 30 UI Study 2026-11-19]], [[Roblox Top 50 UI Study Ranks 31-50 2026-11-19]] and [[Roblox UI Patterns from the Top 30]].
 
 Categorized link library for the UI folder. Every URL here was seen in a search result during the 2026-11-02 research pass (several pages were only seen as snippets, not fully opened). Quality varies: official docs first, then DevForum, then third-party guides. Back to [[UI MOC]].
 
@@ -222,6 +222,16 @@ All entries above are the references. See also the per-topic notes: [[UI Breakdo
 ## Visual study
 
 - [[UI Layout and Motion Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+
+## Figma and AI-agent design
+
+Full list of 13 videos and the Figma MCP docs: [[Figma Workflow for Roblox UI]].
+
+- [The Greatest Cartoony UI Tutorial on Roblox (w/ Figma)](https://www.youtube.com/watch?v=z16zs2v-FNI) — YouTube tutorial · layered cartoony menus; brief in [[Cartoony UI Figma Guide]]
+- [The Greatest Stud UI Tutorial on Roblox (w/ Figma)](https://www.youtube.com/watch?v=gnIKtS3nUqo) — YouTube tutorial · stud-texture HUD; brief in [[Stud UI Figma Guide]]
+- [Designing UI - Tips and Best Practices](https://devforum.roblox.com/t/designing-ui-tips-and-best-practices/3074034) — DevForum · Scale vs Offset, aspect ratio, safe area
+- [Guide to the Figma MCP server](https://help.figma.com/hc/en-us/articles/32132100833559) — Figma help center · letting an AI agent read and write Figma files
+- [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) — Figma GitHub · agent rules template and best practices
 
 
 Links: [[UI MOC]] · [[00 Home]]

@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.2.0 — Top 50 UI and Figma Workflow — 2026-11-19
+
+- Added a companion study covering 20 more experiences from the November 19 Top Playing Now chart (ranks 31–50 plus the next uncovered titles). Entries with only store art are labelled so they are not used as HUD references.
+- Added a Figma workflow guide: file setup with auto layout, components and variables; a Figma-to-Roblox translation table; asset export and 9-slice rules; third-party importers; rules for AI agents using the Figma MCP server; 13 videos.
+- Added two agent-ready style briefs from Kek's Figma tutorials: cartoony layered-stroke menus and stud-texture HUD buttons.
+- Linked the new notes from the UI MOC, UI References, UI Tools and the Visual References MOC.
+
 ## v2.1.0 — Roblox UI Reference Study — 2026-11-19
 
 - Added a dated study of 30 experiences from Roblox's Top Playing Now chart. Each entry links an inspected gameplay capture or clip and records its layout, approximate screen footprint, color and a design takeaway.
