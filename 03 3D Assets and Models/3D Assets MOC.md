@@ -40,6 +40,9 @@ Map of content for the 3D Assets and Models folder: how top Roblox games look, w
 ## Visual study
 
 - [[Environment and Materials Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+- [[Fisch Model and Island Board]] — 180 Fisch island, building and prop captures.
+- [[Game Towns Islands and Buildings Board]] — 315 hubs, towns, islands and buildings from popular games.
+- [[Horror Environment and Prop Board]] — 149 horror rooms, corridors, maps and props.
 
 
 ## Reference implementation brief

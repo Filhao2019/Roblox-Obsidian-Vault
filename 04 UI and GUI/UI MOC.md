@@ -56,6 +56,8 @@ The November 2 breakdown has visual details marked `(unverified)`. The November 
 ## Visual study
 
 - [[UI Layout and Motion Visual Study]] — embedded reference images and short clips, with study prompts and attribution.
+- [[Cartoony Roblox UI Board]] — 282 shop, inventory, egg and reward screens from cartoony simulators.
+- [[Horror Roblox UI Board]] — 209 minimal and diegetic HUDs, lobbies and death screens from horror games.
 
 
 ## Reference implementation brief

@@ -1,5 +1,12 @@
 # Changelog
 
+## v2.3.0 — UI and Model Reference Boards — 2026-11-20
+
+- Added five visual boards with 1135 in-game screenshots collected from Fandom wikis: cartoony UI (282, led by Pet Simulator 99), horror UI (209, led by Forsaken), Fisch islands and props (180), towns, islands and buildings (315) and horror rooms and props (149).
+- Each image has a caption and a link to its wiki file page. Sources, sizes and checksums are in `_Data/reference-media-2026-11-20.json`.
+- Images are hotlinked from Fandom and not redistributed. A few non-Roblox games (Brawl Stars, Clash Royale, Dead by Daylight, Phasmophobia, Sea of Thieves, Animal Crossing, Genshin Impact) are included as style anchors.
+- Linked the boards from the Visual References, UI and 3D MOCs and from the Fisch and Pet Simulator 99 profiles.
+
 ## v2.2.0 — Top 50 UI and Figma Workflow — 2026-11-19
 
 - Added a companion study covering 20 more experiences from the November 19 Top Playing Now chart (ranks 31–50 plus the next uncovered titles). Entries with only store art are labelled so they are not used as HUD references.

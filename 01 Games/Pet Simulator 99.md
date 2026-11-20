@@ -94,4 +94,6 @@ Patterns only:
 
 Note: I did not find a BIG Games / Preston public talk. Hatch animation details are inferred; verify in-game.
 
+Visual references: [[Cartoony Roblox UI Board]] · [[Game Towns Islands and Buildings Board]]
+
 Links: [[Games MOC]] · [[Top Games Chart 2026-11-02]] · [[00 Home]]

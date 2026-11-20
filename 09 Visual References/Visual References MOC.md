@@ -25,6 +25,11 @@ Start here to study pictures and motion alongside the vault's written guides. Th
 | High-fidelity models (hotlinked) | [[Roblox High Fidelity Model Board]] | 599 thumbnails from 107 realistic Roblox games, including Fish It and Fisch |
 | Thumbnails and icons (hotlinked) | [[Roblox Game Thumbnail Board]] | 200 icons and thumbnails of popular Roblox games |
 | VFX packs (hotlinked) | [[VFX Pack Board]] | 100 VFX pack and showcase images |
+| Cartoony UI (hotlinked) | [[Cartoony Roblox UI Board]] | 282 screenshots from 12 games: Pet Simulator 99, Grow a Garden, Adopt Me, Brawl Stars |
+| Horror UI (hotlinked) | [[Horror Roblox UI Board]] | 209 screenshots from 8 games: Forsaken, DOORS, Pressure, Dead by Daylight |
+| Fisch islands and props (hotlinked) | [[Fisch Model and Island Board]] | 180 in-game captures of Fisch islands, docks, shops, boats and rods |
+| Towns, islands and buildings (hotlinked) | [[Game Towns Islands and Buildings Board]] | 315 captures from 15 games: Adopt Me, Jailbreak, Bloxburg, Sea of Thieves |
+| Horror rooms and props (hotlinked) | [[Horror Environment and Prop Board]] | 149 captures from 7 horror games: DOORS, Forsaken, Pressure, Grace |
 | Animation videos (YouTube) | [[Animation Video Library]] | 100 tutorials: walk, run, panic run, jump, crouch, crawl, dash, idle, climb, Moon/Eclipse |
 
 ## A useful reference session

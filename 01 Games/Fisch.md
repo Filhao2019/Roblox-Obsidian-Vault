@@ -90,4 +90,6 @@ Fisch is a fishing adventure: cast a bobber, shake the rod to speed up the bite,
 
 Note: no devlog or developer talk was found; peaks are tracker-reported and contradictory.
 
+Visual references: [[Fisch Model and Island Board]]
+
 Links: [[Games MOC]] · [[Top Games Chart 2026-11-02]] · [[00 Home]]

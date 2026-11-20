@@ -19,6 +19,8 @@ The upstream repository publishes this material under Creative Commons Attributi
 
 `_Data/visual-media-2026-11-02.json` records each file's source lesson, pinned document and media URLs, author, license, unchanged status, byte length and SHA-256 checksum. This makes the collection reproducible and lets future updates detect changed media.
 
+`_Data/reference-media-2026-11-20.json` lists the 1135 Fandom wiki screenshots behind the five v2.3 boards ([[Cartoony Roblox UI Board]], [[Horror Roblox UI Board]], [[Fisch Model and Island Board]], [[Game Towns Islands and Buildings Board]], [[Horror Environment and Prop Board]]): game, wiki, search query, file page, image URL and size. These are fan captures of copyrighted games. They are hotlinked for study and not stored or redistributed here.
+
 ## Viewing and limits
 
 Images and videos use local Obsidian embeds. MP4 playback depends on the viewer's codec support; open the file in an external player or use its source link if needed. Source pages require internet. These official tutorial examples do not verify any game-specific art, interface, animation or performance claim elsewhere in the vault. No external video downloads, third-party game screenshots or paid assets are included.
