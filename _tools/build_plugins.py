@@ -90,6 +90,15 @@ PLUGINS = {
          L + '49 Roblox Platform Features/*', L + '57 API and Concept Atlas/*', L + '62 Engine Reference Cards/*',
          L + 'Skill - Roblox [ADPSD]*.md', L + 'SYMPTOMS.md'],
         ['Coding MOC', 'SYMPTOMS']),
+    'voxel-models': (
+        'Voxel and blocky "brainrot" Roblox models: voxel, Part-built and low-poly flat styles, palettes, stud scale, '
+        'greedy meshing, a Blender voxel-to-GLB script, plus brainrot game teardowns and their UI kit. Use when asked '
+        'for voxel, voxelated, blocky, stud-style, "slop" or Steal a Brainrot-style models.',
+        ['03 3D Assets and Models/Voxel and Brainrot Model Style.md', '03 3D Assets and Models/Fidelity Tiers Low to High.md',
+         '03 3D Assets and Models/Modeling for Roblox.md', '03 3D Assets and Models/Characters Pets and Creatures.md',
+         '04 UI and GUI/Brainrot and Simulator UI Patterns.md', '01 Games/Brainrot Games Roundup.md',
+         '01 Games/Steal a Brainrot.md', L + '53 Voxel Modelling Deep Dive/*'],
+        ['Voxel and Brainrot Model Style', 'Voxel Modelling Start Here']),
 }
 
 
@@ -121,7 +130,8 @@ def build(root=ROOT):
                 if embed in media and media[embed].suffix.lower() in {'.png', '.jpg', '.jpeg', '.gif', '.webp'}:
                     (skill / 'references' / '_Media').mkdir(exist_ok=True)
                     shutil.copy2(media[embed], skill / 'references' / '_Media' / embed)
-                    shutil.copy2(root / '_Media' / 'ROBLOX-CC-BY-4.0.txt', skill / 'references' / '_Media')
+                    if 'Roblox' in media[embed].relative_to(root / '_Media').parts:  # only Roblox docs media is CC BY
+                        shutil.copy2(root / '_Media' / 'ROBLOX-CC-BY-4.0.txt', skill / 'references' / '_Media')
         by_title = {d['title']: Path(d['path']).name for d in picked}
         lihfolk = any(d['path'].startswith(L) for d in picked)
         index = [f'# {name} note index', '']

@@ -15,6 +15,7 @@ Map of content for `04 UI and GUI/`. Start with [[Roblox Top 30 UI Study 2026-11
 - [[Roblox Top 50 UI Study Ranks 31-50 2026-11-19]] — 20 more chart games (ranks 31–50 and next titles), same per-screen format
 - [[Figma Workflow for Roblox UI]] — Figma file setup, Figma-to-Roblox translation table, asset export, importers, AI agent + Figma MCP rules, videos
 - [[Cartoony UI Figma Guide]] — layered-stroke cartoony menus, rarity cards, halftones (Kek tutorial brief)
+- [[Brainrot and Simulator UI Patterns]] — income-per-second HUD, overhead unit tags (Luau), conveyor, lock and restock timers, rarity × mutation ladder
 - [[Stud UI Figma Guide]] — tactile stud-texture HUD buttons, currency counter, toggles (Kek tutorial brief)
 - [[UI Breakdown of Top Games]] — per-game HUD, buttons, palette, fonts, menus, signature moments (all 27 chart games)
 - [[UI Design Principles for Roblox]] — strokes, gradients, hierarchy, consistency, contrast

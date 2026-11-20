@@ -53,6 +53,11 @@
       "name": "roblox-coding",
       "source": "./.plugins/roblox-coding",
       "description": "Roblox Luau engineering: architecture, data saving, remotes, anti-exploit, performance, genre systems, physics and an API atlas. Use when writing, reviewing or debugging Roblox Luau code."
+    },
+    {
+      "name": "voxel-models",
+      "source": "./.plugins/voxel-models",
+      "description": "Voxel and blocky \"brainrot\" Roblox models: voxel, Part-built and low-poly flat styles, palettes, stud scale, greedy meshing, a Blender voxel-to-GLB script, plus brainrot game teardowns and their UI kit. Use when asked for voxel, voxelated, blocky, stud-style, \"slop\" or Steal a Brainrot-style models."
     }
   ]
 }

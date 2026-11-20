@@ -7,7 +7,7 @@ description: "Roblox 3D art: fidelity tiers, art styles, Blender modeling, styli
 
 Roblox 3D art: fidelity tiers, art styles, Blender modeling, stylised and voxel modelling, materials, lighting and model reference boards. Use for any Roblox modeling, asset or environment-art task.
 
-This skill bundles 122 notes from the Roblox Obsidian Vault under `references/`.
+This skill bundles 123 notes from the Roblox Obsidian Vault under `references/`.
 
 ## How to use
 

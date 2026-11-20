@@ -1,5 +1,14 @@
 # Changelog
 
+## v2.5.0 — Brainrot Games and Voxel Models — 2026-11-20
+
+- Added Brainrot Games Roundup, comparing Steal a Brainrot, Grow a Garden, Steal An Egg, Escape Tsunami for Brainrots and Plants vs Brainrots. It covers their loops, rarity × mutation systems, timers and lessons.
+- Expanded the Steal a Brainrot profile from a stub to a full profile.
+- Added Brainrot and Simulator UI Patterns. It covers the income-per-second HUD, conveyor, base lock and restock timers, and an original rarity and mutation colour ladder, with a typed Luau overhead unit tag and number abbreviator (untested in Studio).
+- Added Voxel and Brainrot Model Style, which compares the voxel, Part-built and low-poly routes. It covers style rules, a tool chooser and the pipeline into Roblox. Its Blender 5.1 script turns a voxel grid into one merged, palette-textured GLB. The script ran headless and its self-check passed; the GLB has not yet been imported into Studio. The original example model (render + GLB) is in `_Media/Voxel/`.
+- New plugin `voxel-models` bundles these notes with LihFolk's voxel deep dive.
+- `build_plugins.py` now copies the Roblox CC BY licence only next to Roblox docs media.
+
 ## v2.4.0 — Claude Code plugins — 2026-11-20
 
 - The repo is now a Claude Code plugin marketplace (`roblox-obsidian-vault`) with ten topic plugins, each holding one skill and copies of its notes: `cartoony-ui`, `horror-ui`, `roblox-ui`, `roblox-top-games`, `roblox-game-design`, `roblox-3d-models`, `roblox-animation`, `roblox-audio`, `roblox-vfx` and `roblox-coding`.

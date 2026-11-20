@@ -7,7 +7,7 @@ description: "Roblox UI/GUI reference: top-game UI studies, HUDs, shops, invento
 
 Roblox UI/GUI reference: top-game UI studies, HUDs, shops, inventories, popups, responsive layout, Figma-to-Studio handoff and Luau UI code. Use for any Roblox UI design or implementation task.
 
-This skill bundles 60 notes from the Roblox Obsidian Vault under `references/`.
+This skill bundles 61 notes from the Roblox Obsidian Vault under `references/`.
 
 ## How to use
 

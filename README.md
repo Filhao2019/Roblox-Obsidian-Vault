@@ -17,7 +17,7 @@ Each topic ships as its own plugin with one skill, so Claude loads only the note
 /plugin install cartoony-ui@roblox-obsidian-vault
 ```
 
-Plugins: `cartoony-ui`, `horror-ui`, `roblox-ui`, `roblox-top-games`, `roblox-game-design`, `roblox-3d-models`, `roblox-animation`, `roblox-audio`, `roblox-vfx`, `roblox-coding`.
+Plugins: `cartoony-ui`, `horror-ui`, `roblox-ui`, `roblox-top-games`, `roblox-game-design`, `roblox-3d-models`, `roblox-animation`, `roblox-audio`, `roblox-vfx`, `roblox-coding`, `voxel-models`.
 
 The plugins live in the hidden `.plugins/` folder and are generated from the notes. After editing notes, run `python _tools/build_plugins.py` and commit the result. CI fails if they are out of date. To add a plugin, add an entry to `PLUGINS` in that script. Me myself would recommend having both the obsidian vault and the plugin so that Claude can see the reference images and videos too.
 

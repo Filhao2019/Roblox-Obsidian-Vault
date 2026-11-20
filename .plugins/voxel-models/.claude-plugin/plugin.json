@@ -1,0 +1,8 @@
+{
+  "name": "voxel-models",
+  "description": "Voxel and blocky \"brainrot\" Roblox models: voxel, Part-built and low-poly flat styles, palettes, stud scale, greedy meshing, a Blender voxel-to-GLB script, plus brainrot game teardowns and their UI kit. Use when asked for voxel, voxelated, blocky, stud-style, \"slop\" or Steal a Brainrot-style models.",
+  "author": {
+    "name": "Filhao2019"
+  },
+  "license": "MIT"
+}

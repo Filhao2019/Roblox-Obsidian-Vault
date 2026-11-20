@@ -21,6 +21,7 @@ Map of content for the 3D Assets and Models folder: how top Roblox games look, w
 - [[Environment and Map Design]] — plots, hubs, arenas, procedural rooms, terrain
 - [[Characters Pets and Creatures]] — collectible design, rarity reads, rigs, monsters
 - [[Free and Paid Asset Sources]] — license cheat sheet and backdoor warnings
+- [[Voxel and Brainrot Model Style]] — voxel, Part-built and low-poly routes for the brainrot look, style rules, and a Blender voxel-to-GLB script
 - [[Third Party Asset Intake Review]] · [[Asset Intake Record]] — passive provenance, script/permission and unresolved-risk review worksheets
 - [[3D Asset References]] — large categorized link library
 

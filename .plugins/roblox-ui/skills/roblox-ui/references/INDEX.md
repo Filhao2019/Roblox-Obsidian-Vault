@@ -1,5 +1,6 @@
 # roblox-ui note index
 
+- [Brainrot and Simulator UI Patterns](<Brainrot and Simulator UI Patterns.md>) [untested] — The 2025–26 brainrot and steal/grow wave includes [[Steal a Brainrot]], [[Grow a Garden]], [[Steal An Egg]], Escape Tsunami for Brainrots and Plants vs Brainrots ([[Brainrot Games Roundup]]). These ga
 - [Cartoony UI Figma Guide](<Cartoony UI Figma Guide.md>) [researched] — Agent-ready brief for building polished, cartoony Roblox menus in Figma and Studio: layered strokes (≈ radius 10, black 3, white 6, inner 4 at 1080p), offset dark underlays, gradient rarity cards, mas
 - [Color Typography and Iconography](<Color Typography and Iconography.md>) [researched] — Reusable colour ladders, font choices and icon sources. Visual rules: [[UI Design Principles for Roblox]]. Hex values below are a **community-convention starting palette I composed**, not sampled from
 - [Figma Workflow for Roblox UI](<Figma Workflow for Roblox UI.md>) [researched] — How to design Roblox UI in Figma, move it into Studio without losing responsiveness, and drive Figma with an AI agent through the official Figma MCP server. The style briefs [[Cartoony UI Figma Guide]

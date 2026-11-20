@@ -27,7 +27,7 @@ Profiles of the 20 **Top Playing Now** games plus 7 chart staples, in chart orde
 | 14 | [[Fish It]] | Simulation / Incremental Simulator | 64,602 | researched |
 | 15 | [[Dont Splash]] | Obby & Platformer / Runner | 60,423 | stub |
 | 16 | [[Jujutsu Shenanigans]] | Action / Battlegrounds & Fighting | 59,976 | stub |
-| 17 | [[Steal a Brainrot]] | Simulation / Tycoon | 56,954 | stub |
+| 17 | [[Steal a Brainrot]] | Simulation / Tycoon | 56,954 | researched |
 | 18 | [[Dandys World]] | Survival / Escape | 56,581 | stub |
 | 19 | [[Violence District]] | Survival / 1 vs All | 55,254 | researched |
 | 20 | [[Evade]] | Survival | 54,354 | researched |
@@ -42,6 +42,7 @@ Profiles of the 20 **Top Playing Now** games plus 7 chart staples, in chart orde
 ## Supplementary game references
 
 - [[Pressure]] — creator-page research and a comparative horror study plan; online official thumbnail. Outside the dated chart, with no current statistics or direct playthrough claimed.
+- [[Brainrot Games Roundup]] — Steal a Brainrot, Grow a Garden, Steal An Egg, Escape Tsunami for Brainrots and Plants vs Brainrots compared: loops, rarity × mutation, timers, lessons.
 
 ## By genre
 

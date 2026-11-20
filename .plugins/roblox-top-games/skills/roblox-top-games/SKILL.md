@@ -7,7 +7,7 @@ description: "Profiles and teardowns of the most-played Roblox games (loops, UI,
 
 Profiles and teardowns of the most-played Roblox games (loops, UI, art, monetization). Use when the user names a top Roblox game or wants to copy proven patterns.
 
-This skill bundles 84 notes from the Roblox Obsidian Vault under `references/`.
+This skill bundles 85 notes from the Roblox Obsidian Vault under `references/`.
 
 ## How to use
 
