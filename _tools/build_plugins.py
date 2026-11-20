@@ -104,7 +104,8 @@ def build(root=ROOT):
     media = {p.name: p for p in (root / '_Media').rglob('*') if p.is_file()}
     entries = []
     for name, (description, patterns, start) in PLUGINS.items():
-        picked = [d for d in docs if any(fnmatch(d['path'], p) for p in patterns)]
+        # sort by str: Windows Path order ignores case, which would make CI's Linux rebuild differ
+        picked = sorted((d for d in docs if any(fnmatch(d['path'], p) for p in patterns)), key=lambda d: d['path'])
         for pattern in patterns:  # a renamed note must not silently empty a plugin
             assert any(fnmatch(d['path'], pattern) for d in picked), f'{name}: no note matches {pattern}'
         plugin = out / name
