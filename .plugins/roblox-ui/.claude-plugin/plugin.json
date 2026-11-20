@@ -1,0 +1,8 @@
+{
+  "name": "roblox-ui",
+  "description": "Roblox UI/GUI reference: top-game UI studies, HUDs, shops, inventories, popups, responsive layout, Figma-to-Studio handoff and Luau UI code. Use for any Roblox UI design or implementation task.",
+  "author": {
+    "name": "Filhao2019"
+  },
+  "license": "MIT"
+}

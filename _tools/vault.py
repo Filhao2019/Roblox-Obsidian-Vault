@@ -9,7 +9,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-EXCLUDED = {'.git', '.obsidian', '.cache', '__pycache__', '_tools'}
+EXCLUDED = {'.git', '.obsidian', '.plugins', '.cache', '__pycache__', '_tools'}
 VENDORED = '11 LihFolk V2'  # third-party CC BY import: searchable, not held to this vault's note rules
 ADMIN = {'README.md', 'CHANGELOG.md', 'AGENTS.md', 'CLAUDE.md', 'LICENSE.md'}
 

@@ -18,3 +18,5 @@ jobs:
         run: python -m unittest discover -s _tools -p test_vault.py
       - name: Note links, metadata, embeds and media checksums
         run: python _tools/vault.py check
+      - name: Plugins match notes
+        run: python _tools/build_plugins.py && git add -A .plugins .claude-plugin && git diff --cached --exit-code --stat

@@ -12,6 +12,8 @@ This vault is a reference library for building Roblox games with AI. It collects
 
 ## Writing to the vault
 
+After changing notes, run `python _tools/build_plugins.py` so the Claude Code plugins in `.plugins/` match. New notes join a plugin only if they match a glob in its `PLUGINS` entry.
+
 ### Folders
 
 | Folder | Holds |

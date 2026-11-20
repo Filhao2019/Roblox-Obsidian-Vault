@@ -1,0 +1,58 @@
+{
+  "name": "roblox-obsidian-vault",
+  "owner": {
+    "name": "Filhao2019"
+  },
+  "plugins": [
+    {
+      "name": "cartoony-ui",
+      "source": "./.plugins/cartoony-ui",
+      "description": "Cartoony Roblox UI style: chunky layered strokes, offset underlays, gradient rarity cards, outlined titles, bouncy motion. Use when asked for cartoony, cartoon, simulator-style, kid-friendly or \"Pet Sim style\" Roblox UI."
+    },
+    {
+      "name": "horror-ui",
+      "source": "./.plugins/horror-ui",
+      "description": "Horror Roblox UI and atmosphere: muted, diegetic, low-clutter menus and HUDs plus horror environment boards. Use when asked for horror, scary, creepy or Doors/Forsaken-style Roblox UI."
+    },
+    {
+      "name": "roblox-ui",
+      "source": "./.plugins/roblox-ui",
+      "description": "Roblox UI/GUI reference: top-game UI studies, HUDs, shops, inventories, popups, responsive layout, Figma-to-Studio handoff and Luau UI code. Use for any Roblox UI design or implementation task."
+    },
+    {
+      "name": "roblox-top-games",
+      "source": "./.plugins/roblox-top-games",
+      "description": "Profiles and teardowns of the most-played Roblox games (loops, UI, art, monetization). Use when the user names a top Roblox game or wants to copy proven patterns."
+    },
+    {
+      "name": "roblox-game-design",
+      "source": "./.plugins/roblox-game-design",
+      "description": "Roblox game design: virality, core loops, retention, monetization, onboarding, thumbnails, live ops, level design and economy. Use when planning or reviewing a Roblox game concept or system design."
+    },
+    {
+      "name": "roblox-3d-models",
+      "source": "./.plugins/roblox-3d-models",
+      "description": "Roblox 3D art: fidelity tiers, art styles, Blender modeling, stylised and voxel modelling, materials, lighting and model reference boards. Use for any Roblox modeling, asset or environment-art task."
+    },
+    {
+      "name": "roblox-animation",
+      "source": "./.plugins/roblox-animation",
+      "description": "Roblox animation: locomotion, combat, emotes, Moon Animator, Blender, cutscenes, cameras and Animator code. Use for any Roblox character, camera or cutscene animation task."
+    },
+    {
+      "name": "roblox-audio",
+      "source": "./.plugins/roblox-audio",
+      "description": "Roblox SFX and audio: satisfying sounds, UI and combat SFX, ambience, music rules and the Audio API. Use for any Roblox sound design or audio code task."
+    },
+    {
+      "name": "roblox-vfx",
+      "source": "./.plugins/roblox-vfx",
+      "description": "Roblox VFX and lighting: particles, beams, trails, ability and reward effects, weather, flipbooks and stylised lighting. Use for any Roblox visual-effect or lighting task."
+    },
+    {
+      "name": "roblox-coding",
+      "source": "./.plugins/roblox-coding",
+      "description": "Roblox Luau engineering: architecture, data saving, remotes, anti-exploit, performance, genre systems, physics and an API atlas. Use when writing, reviewing or debugging Roblox Luau code."
+    }
+  ]
+}

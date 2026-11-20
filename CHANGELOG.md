@@ -1,5 +1,11 @@
 # Changelog
 
+## v2.4.0 — Claude Code plugins — 2026-11-20
+
+- The repo is now a Claude Code plugin marketplace (`roblox-obsidian-vault`) with ten topic plugins, each holding one skill and copies of its notes: `cartoony-ui`, `horror-ui`, `roblox-ui`, `roblox-top-games`, `roblox-game-design`, `roblox-3d-models`, `roblox-animation`, `roblox-audio`, `roblox-vfx` and `roblox-coding`.
+- `_tools/build_plugins.py` generates `.plugins/` and `.claude-plugin/marketplace.json` from the notes. Images embedded by notes are copied; videos are not.
+- CI rebuilds the plugins and fails if the committed copies are out of date. `vault.py` skips `.plugins/`.
+
 ## v2.3.0 — UI and Model Reference Boards — 2026-11-20
 
 - Added five visual boards with 1135 in-game screenshots collected from Fandom wikis: cartoony UI (282, led by Pet Simulator 99), horror UI (209, led by Forsaken), Fisch islands and props (180), towns, islands and buildings (315) and horror rooms and props (149).

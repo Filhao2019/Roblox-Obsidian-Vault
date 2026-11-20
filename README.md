@@ -8,6 +8,19 @@ An [Obsidian](https://obsidian.md) vault of references for building Roblox games
 2. Start at `00 Home.md`.
 3. Point your AI agent (Claude Code, Codex, Cursor…) at the folder. `AGENTS.md` / `CLAUDE.md` tell it how to read and extend the vault.
 
+## Install as Claude Code plugins
+
+Each topic ships as its own plugin with one skill, so Claude loads only the notes for that topic. Asking for "cartoony UI" uses the `cartoony-ui` skill instead of searching the whole vault.
+
+```
+/plugin marketplace add Filhao2019/Roblox-Obsidian-Vault
+/plugin install cartoony-ui@roblox-obsidian-vault
+```
+
+Plugins: `cartoony-ui`, `horror-ui`, `roblox-ui`, `roblox-top-games`, `roblox-game-design`, `roblox-3d-models`, `roblox-animation`, `roblox-audio`, `roblox-vfx`, `roblox-coding`.
+
+The plugins live in the hidden `.plugins/` folder and are generated from the notes. After editing notes, run `python _tools/build_plugins.py` and commit the result. CI fails if they are out of date. To add a plugin, add an entry to `PLUGINS` in that script.
+
 ## What's inside
 
 | Folder | Contents |
